@@ -1,0 +1,11 @@
+.python310/
+venv/
+venv_backup/
+runtime_tmp/
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+!.env.example
+
